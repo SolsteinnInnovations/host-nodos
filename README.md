@@ -24,10 +24,8 @@ Proyecto base para crear microfrontends utilizando React y Vite con Module Feder
 
 3. Actualiza el archivo `package.json`:
 
-    - Cambia el nombre del proyecto:
-
         ```json
-        "name": "nombre_del_proyecto"
+        "name": "nombre_del_nodo"
         ```
 
     - Añade el número de puerto, esto es muy importante para evitar conflictos con otros modulos:
